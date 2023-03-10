@@ -2,7 +2,7 @@
 
 This is a Repository for UVM CS 120 Advanced Programming class. The goal of this class is to explore pull request and issues in a group on a single repository.  
 
-##Steps 
+## Steps 
 1. One member of the group will create a template copy of this repository and share the url with the rest of the group
 2. In the browser add 3 comments to one of the program files of your choosing (check with others in your group to prevent merge conflicts) and submit a pull request. The repo owner then will need to accept each pull request from the team
 3. Select another program file and create 5 seperate issues using the Issue/Bug Template below
