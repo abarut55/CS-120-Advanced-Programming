@@ -2,7 +2,7 @@
 #include <sstream>
 #include <iomanip>
 
-std::string rgbToHex(int r, int g, int b)
+std::string rgb_to_hex(int r, int g, int b)
 {
     r = std::max(0, std::min(255, r));
     g = std::max(0, std::min(255, g));
@@ -15,4 +15,4 @@ std::string rgbToHex(int r, int g, int b)
     return ss.str();
 }
 
-//Test with std::string hexColor = rgbToHex(255, 127, 0); // returns "FF7F00"
+//Test with std::string hexColor = rgb_to_hex(255, 127, 0); // returns "FF7F00"
