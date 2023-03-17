@@ -5,5 +5,4 @@ def rgb_to_hex(r, g, b):
     return '{:02X}{:02X}{:02X}'.format(r, g, b)
 
 
-hex_color = rgb_to_hex(255, 127, 0) # returns "FF7F00"
-print(hex_color)
+# test with hex_color = rgb_to_hex(255, 127, 0) # returns "FF7F00"
