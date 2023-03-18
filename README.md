@@ -3,14 +3,25 @@
 This is a Repository for UVM CS 120 Advanced Programming class. The goal of this class is to explore pull request and issues in a group on a single repository.  
 
 ## Steps 
-1. One member of the group will create a template copy of this repository and share the url with the rest of the group
-2. In the browser add 3 comments to one of the program files of your choosing (check with others in your group to prevent merge conflicts) and submit a pull request. The repo owner then will need to accept each pull request from the team
-3. Select another program file and create 5 seperate issues using the Issue/Bug Template below
-4. Now have the repo owner invite all of the team as contributors
-5. Choose a program file you have not worked on yet and try to solve all the bug issues for that file. 
-6. Submit a pull request for each bug fix
-7. Add comments about your fix to the issue
-8. Go to the program file you submitted bug reports for and review the fixes to verify they work, if they do, accept the pull request and close the bug with a note
+1. Split into teams and one member create repo use the git template (email your repo url) ~5 minutes
+2. Add comments ~10 minutes
+  - Select two programming files and add comments through Github browser 
+  - Submit a Pull Request
+  - Team Repo Owner accepts Pull Request
+3. Create Bugs ~5 minutes
+  - Select two or more new programming files that has comments and create 2-4 small bugs
+  - Add a comment at the top with “bugs introduced: + your initials”
+4. Submit Bug Reports  ~10 minutes
+  - Select two files which you have not touched yet and that are marked with bugs
+  - Identify all bugs and submit bug reports through Github following the format in the Readme
+5. Fix Bugs  ~20 minutes
+  - Add everyone as contributors to repo
+  - Clone repo
+  - Determine how to fix Bugs
+  - Push fixes to main
+6. QA and Close Bug Reports  ~10 minutes
+  - Verify fixes are correct
+  - Close bugs with comments
 
 # Issue/Bug Report
 **Description**
