@@ -9,16 +9,16 @@ This is a Repository for UVM CS 120 Advanced Programming class. The goal of this
   - Submit a Pull Request
   - Team Repo Owner accepts Pull Request
 3. Create Bugs ~5 minutes
+  - Add everyone as contributors to repo
   - Select two or more new programming files that has comments and create 2-4 small bugs
   - Add a comment at the top with “bugs introduced: + your initials”
 4. Submit Bug Reports  ~10 minutes
   - Select two files which you have not touched yet and that are marked with bugs
   - Identify all bugs and submit bug reports through Github following the format in the Readme
 5. Fix Bugs  ~20 minutes
-  - Add everyone as contributors to repo
-  - Clone repo
+  - Select two files which you have not touched yet and that have active Bug Reports
   - Determine how to fix Bugs
-  - Push fixes to main
+  - Push fixes to main with comments
 6. QA and Close Bug Reports  ~10 minutes
   - Verify fixes are correct
   - Close bugs with comments
